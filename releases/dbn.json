@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-07-10",
+      "changelog": "Initial release. 61 special demand sites across Durban, Pietermaritzburg and the south coast. Slimmed water and building geometry for improved performance.",
+      "download": "https://github.com/worstboyinaustral1a/subway-builder-za/releases/download/v1.0.0/DBN_v1.0.0.zip",
+      "sha256": "63e7b8590702904b3ba983194300fc97f7e4779ee1169348ae490d3029b8510b"
+    }
+  ]
+}
