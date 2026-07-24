@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.0.2",
+      "game_version": ">=1.0.0",
+      "date": "2026-07-24",
+      "changelog": "Demand data adjustments.",
+      "download": "https://github.com/worstboyinaustral1a/subway-builder-za/releases/download/cpt-1.0.2/CPT_v1.0.2.zip",
+      "sha256": "dc4e2e159663e88e90dc16af0897a7340279a76c107d0ba473af60d03a1d2c25"
+    },
+    {
       "version": "1.0.1",
       "game_version": ">=1.0.0",
       "date": "2026-07-09",
